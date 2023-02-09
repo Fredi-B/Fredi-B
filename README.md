@@ -24,13 +24,13 @@ A re-implementation of some of the standard C++ containers (map, vector, stack) 
 
 ### [IRC Server](https://github.com/goharalisiddiqui/42_ft_irc)
 
-As the first 'bigger' C++ project, [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I implemented a basic Internet Relay Chat (IRC) server, allowing users to join and participate in online chat rooms.
+As the first 'bigger' C++ 42 project ft_irc, [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I implemented a basic Internet Relay Chat (IRC) server, allowing users to join and participate in online chat rooms.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 ### [LEMP Stack](https://github.com/Fredi-B/42_inception)
 
-In this project, I gained experience with Docker and setting up a LEMP stack (Linux, Nginx, MySQL, and PHP). I acquired a solid understanding of how to use Docker to manage and deploy web applications using Nginx, MySQL, and PHP in a containerized environment.
+In the 42 project Inception, I gained experience with Docker and setting up a LEMP stack (Linux, Nginx, MySQL, and PHP). I acquired a solid understanding of how to use Docker to manage and deploy web applications using Nginx, MySQL, and PHP in a containerized environment.
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,mysql,wordpress)](https://skillicons.dev)
 
