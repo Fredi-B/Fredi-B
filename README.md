@@ -22,7 +22,7 @@ A re-implementation of some of the standard C++ containers (map, vector, stack) 
 
 ## Recent Projects
 
-### [IRC Server](https://github.com/goharalisiddiqui/42_ft_irc)
+### IRC Server
 
 As the first 'bigger' C++ 42 group project ft_irc, [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I implemented a basic Internet Relay Chat (IRC) server, allowing users to join and participate in online chat rooms.
 
@@ -36,7 +36,7 @@ In the 42 project Inception, I gained experience with Docker and setting up a LE
 
 ### [Minishell](https://github.com/Fredi-B/42_minishell)
 
-I worked with [Arno](https://github.com/AF200) on the 42 group project Minishell, a minimalist Unix shell written in C. Our goal was to allow users to execute commands and navigate the file system. Working with Arno was a great opportunity to learn and bring our strengths to the project. Despite the challenges, we successfully created a functional Minishell and improved our teamwork skills.
+I worked with [Arno](https://github.com/AF200) on the 42 group project Minishell, a minimalist Unix shell written in C. Our goal was to allow users to execute commands and navigate the file system. Working with Arno was a great opportunity to learn and bring our strengths to the project. Despite the challenges, we successfully created a functional Minishell and improved our teamworking skills.
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
