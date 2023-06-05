@@ -14,11 +14,11 @@ Additionally, I have had some exposure and experience with the following technol
 
 ## Current Project
 
-### [C++ STL](https://github.com/Fredi-B/42_ft_containers)
+### ft_transcendence
 
-A re-implementation of some of the standard C++ containers (map, vector, stack) with an emphasis on both performance and understanding the underlying data structures.
+A multiplayer online version of the mighty Pong game. The backend is written in NestJS, using PostgreSQL and TypeORM for the database. The frontend is written in React. 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,react,postgres,docker)](https://skillicons.dev)
 
 ## Recent Projects
 
