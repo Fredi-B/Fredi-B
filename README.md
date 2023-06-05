@@ -8,7 +8,7 @@ I have worked with a variety of different languages and technologies. While I am
 
 Additionally, I have had some exposure and experience with the following technologies, with varying levels of familiarity:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,aws,linux,nginx,mysql,wordpress,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nestjs,react,docker,aws,linux,nginx,mysql,postgres,wordpress,markdown)](https://skillicons.dev)
 
 --- 
 
