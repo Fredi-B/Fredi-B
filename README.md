@@ -16,7 +16,7 @@ Additionally, I have had some exposure and experience with the following technol
 
 ### ft_transcendence
 
-A multiplayer online version of the mighty Pong game. The backend is written in NestJS, using PostgreSQL and TypeORM for the database. The frontend is written in React. 
+As the last and biggest 42 project [Dom](https://github.com/Domas182), [Milton](https://github.com/Pyr-0), [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I wrote a multiplayer online version of the game Pong. The backend is written in NestJS, using PostgreSQL and TypeORM for the database. The frontend is written in React. 
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,react,postgres,docker)](https://skillicons.dev)
 
