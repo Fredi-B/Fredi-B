@@ -19,7 +19,7 @@ Additionally, I have had some exposure and experience with the following technol
 As the last and biggest 42 project [Dom](https://github.com/Domas182), [Milton](https://github.com/Pyr-0), [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I wrote a multiplayer online version of the game Pong. The backend is written in NestJS, using PostgreSQL and TypeORM for the database. The frontend is written in React. 
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,react,postgres,docker,postman)](https://skillicons.dev)
-
+---
 ## Some of my Projects
 
 ### IRC Server
@@ -27,19 +27,19 @@ As the last and biggest 42 project [Dom](https://github.com/Domas182), [Milton](
 As the first 'bigger' C++ 42 group project ft_irc, [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I implemented a basic Internet Relay Chat (IRC) server, allowing users to join and participate in online chat rooms.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
+---
 ### [LEMP Stack](https://github.com/Fredi-B/42_inception)
 
 In the 42 project Inception, I gained experience with Docker and setting up a LEMP stack (Linux, Nginx, MySQL, and PHP). I acquired a solid understanding of how to use Docker to manage and deploy web applications using Nginx, MySQL, and PHP in a containerized environment.
 
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx,mysql,wordpress)](https://skillicons.dev)
-
+---
 ### [Minishell](https://github.com/Fredi-B/42_minishell)
 
 I worked with [Arno](https://github.com/AF200) on the 42 group project Minishell, a minimalist Unix shell written in C. Our goal was to allow users to execute commands and navigate the file system. Working with Arno was a great opportunity to learn and bring our strengths to the project. Despite the challenges, we successfully created a functional Minishell and improved our teamworking skills.
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-
+---
 ---
 
 #### Pronouns: he/him
