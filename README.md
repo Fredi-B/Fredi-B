@@ -22,7 +22,7 @@ As the last and biggest 42 project [Dom](https://github.com/Domas182), [Milton](
 ---
 ## Some of my Projects
 
-### IRC Server
+### [IRC Server](https://github.com/Fredi-B/42_ft_irc)
 
 As the first 'bigger' C++ 42 group project ft_irc, [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I implemented a basic Internet Relay Chat (IRC) server, allowing users to join and participate in online chat rooms.
 
