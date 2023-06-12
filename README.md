@@ -4,11 +4,11 @@ I have a Master's degree in Philosophy and I have concluded that I am passionate
 
 I have worked with a variety of different languages and technologies. While I am still developing my skills, I have a good understanding and feel comfortable with the following:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,github,stackoverflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,github,stackoverflow,vscode,markdown)](https://skillicons.dev)
 
 Additionally, I have had some exposure and experience with the following technologies, with varying levels of familiarity:
 
-[![My Skills](https://skillicons.dev/icons?i=js,nestjs,react,matlab,aws,linux,nginx,mysql,postgres,postman,wordpress,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nestjs,react,matlab,aws,linux,nginx,mysql,postgres,postman,wordpress)](https://skillicons.dev)
 
 --- 
 
