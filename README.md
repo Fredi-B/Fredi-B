@@ -13,15 +13,19 @@ Additionally, I have had some exposure and experience with the following technol
 --- 
 
 ## Current Project
+### CS50’s Introduction to Programming with Python
 
+To deepen my Python skills, I'm taking Harvard's online course, which covers fundamental programming concepts and practical applications using Python.
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+## Some of my Projects
 ### ft_transcendence
 
 As the last and biggest 42 project [Dom](https://github.com/Domas182), [Milton](https://github.com/Pyr-0), [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I wrote a multiplayer online version of the game Pong. The backend is written in NestJS, using PostgreSQL and TypeORM for the database. The frontend is written in React. 
 
 [![My Skills](https://skillicons.dev/icons?i=nestjs,react,postgres,docker,postman)](https://skillicons.dev)
 ---
-## Some of my Projects
-
 ### [IRC Server](https://github.com/Fredi-B/42_ft_irc)
 
 As the first 'bigger' C++ 42 group project ft_irc, [Arno](https://github.com/AF200), [Gohar](https://github.com/goharalisiddiqui) and I implemented a basic Internet Relay Chat (IRC) server, allowing users to join and participate in online chat rooms.
